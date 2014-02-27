@@ -10,9 +10,8 @@
 
 	// Template string to print
 	$template = <<<EOF
+123456789012345678901234567890123456789012
 $to_print
-1
-2
 3
 4
 5
@@ -21,8 +20,16 @@ $to_print
 8
 9
 10
-11
+Visit: http://temporary-agency.com
 12
+13
+Your assignment is:
+15
+16
+17
+18
+19
+20
 EOF;
 
 	// Putting the template in a file
@@ -34,4 +41,13 @@ EOF;
 	// Removing temporary file
 	shell_exec('rm /tmp/print.txt');
 
+	// Return string
+	$s = '{"success":"true"}';
+	// Return a JSON to account for AJAX print requests as JSONP
+	if (isset($_REQUEST['callback']))
+	{
+		$s = $_REQUEST['callback'].'('.$s.')';	
+	}
+	header("Content-Type: application/json");
+	echo $s;
 ?>

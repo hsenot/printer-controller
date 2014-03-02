@@ -24,12 +24,12 @@ $to_print
 
 
 
-  Visit: http://www.temporary-agency.com
+     contribute@temporary-agency.com
 
 
 
 
-            Your assignment is:
+       Random Assignment Database: 
 
 EOF;
 

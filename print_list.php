@@ -7,6 +7,8 @@ Assignment Bank:
 (L-R)
 
 
+ Replicate 'X' in the wrong order
+
  Sew something with a double meaning to 
  create a completely new image
 
@@ -37,7 +39,7 @@ Assignment Bank:
  Find a piece of paper during business 
  hours
 
- Replicate 'X' in the wrong order
+ Trial staples as an indulgence
 
  Question the economy to start a 
  conversation
@@ -50,7 +52,6 @@ Assignment Bank:
 
  Observe weeds in pen
 
- Trial staples as an indulgence
 
 
 
@@ -77,7 +78,7 @@ EOF;
 	shell_exec('lpr /tmp/print.txt');
 
 	// Escape sequence to a
-	shell_exec("echo '\x1b\x69' | lpr -l");	
+	//shell_exec("echo '\x1b\x69' | lpr -l");	
 	
 	// Removing temporary file
 	shell_exec('rm /tmp/print.txt');

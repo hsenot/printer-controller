@@ -15,16 +15,17 @@
 
 
 
-
 $to_print
 
 
 
 
 
-
-
+      Send your interpretation to:
      contribute@temporary-agency.com
+
+     More assignments available at:
+     http://www.temporary-agency.com
 
 
 

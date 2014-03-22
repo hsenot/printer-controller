@@ -7,13 +7,30 @@ Assignment Bank:
 (L-R)
 
 
+ Trial staples as an indulgence
+
+ Find a piece of paper during business
+ hours
+
+ Ruin the first 10 things you see
+ spontaneously
+
+ Spend time thinking about an image
+ based on searching your computer for
+ 'action' randomly
+ (perceived, and real)
+
+ Scuplt rubber bands unacceptably
+
+ Plant a circle on the wall
+
  Replicate 'X' in the wrong order
 
- Sew something with a double meaning to 
+ Sew something with a double meaning to
  create a completely new image
 
- Ruin the first 10 things you see 
- spontaneously
+ Consider a net inside an irregular
+ shape
 
  Replicate elastic bands and combine
 
@@ -23,6 +40,9 @@ Assignment Bank:
 
  Copy something in the size of a book
 
+ Write about something without thinking
+ too much (statement)
+
  Draw a circle inside a square
 
  Colour sticks intuitively
@@ -31,26 +51,32 @@ Assignment Bank:
 
  Reinvent a game of cards like a robot
 
- Introduce a set of instructions in the 
+ Introduce a set of instructions in the
  gallery
 
  Paint a flagpole in 11 seconds
 
- Find a piece of paper during business 
+ Photocopy free time during business 
  hours
 
- Trial staples as an indulgence
+ Write about something without thinking
+ too much (outcome)
 
- Question the economy to start a 
+ Identify a border with a catchy title
+
+ Question the economy to start a
  conversation
 
- Spend time thinking about time with your 
+ Spend time thinking about time with your
  hands
 
- Continue the notion of work without 
- telling anyone
+ Continue the notion of work without
+ telling anyone (statement, and outcome)
 
  Observe weeds in pen
+
+ Re-write collective action inside a
+ square
 
 
 
